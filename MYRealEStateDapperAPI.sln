@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYRealEStateDapperAPI", "MYRealEStateDapperAPI\MYRealEStateDapperAPI.csproj", "{EF60D8B3-78C3-429F-9ED6-A5B0AFF1B55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYRealEStateDapperUI", "MYRealEStateDapperUI\MYRealEStateDapperUI.csproj", "{3845C819-66D9-45B9-8EC4-D6DCFCEDF174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF60D8B3-78C3-429F-9ED6-A5B0AFF1B55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF60D8B3-78C3-429F-9ED6-A5B0AFF1B55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF60D8B3-78C3-429F-9ED6-A5B0AFF1B55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF60D8B3-78C3-429F-9ED6-A5B0AFF1B55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3845C819-66D9-45B9-8EC4-D6DCFCEDF174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3845C819-66D9-45B9-8EC4-D6DCFCEDF174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3845C819-66D9-45B9-8EC4-D6DCFCEDF174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3845C819-66D9-45B9-8EC4-D6DCFCEDF174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CCC780D-5C6E-4C2C-A0D5-BC70B916C315}
+	EndGlobalSection
+EndGlobal
